@@ -20,8 +20,6 @@ def eat_lunch(list):
             else:
                 print(f"Then I eat a {list[i]}")
     
-    
-
 def test_all():
     """tests that all functions run properly"""
     greeting("test")
@@ -31,3 +29,9 @@ def test_all():
 
 '''Run our functions'''
 test_all()
+
+#comments in python
+
+#variable declaration in python
+some_var = 3
+other_var = "happy"
